@@ -4,10 +4,10 @@ Update of original DrawObjects by by Angus Johnson ([http://www.angusj.com/](htt
 
 [http://angusj.com/delphi/drawobject.html](http://angusj.com/delphi/drawobject.html)
 
-##Usage
+## Usage
 Add source folder to your library path.
 
-##Example
+## Example
 A demo program is provided.
 
 1. I strongly recommend you open the "a_demo_X.dob" tutorial files 
