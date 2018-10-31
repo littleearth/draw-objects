@@ -1,0 +1,69 @@
+[TTextBezier:TextBezier1]
+ButtonCount=7
+ButtonSize=4
+BtnPoints=(42,124) (148,218) (178,42) (296,124) (386,187) (352,188) (493,143) 
+Color=$0000FF80
+ColorShadow=$00C0C0C0
+Height=260
+Left=16
+Pen.Color=$00000000
+Pen.Style=psSolid
+Pen.Width=2
+ShadowSize=2
+Top=6
+Width=535
+ObjId=00A252F0
+Text=Text Bezier Object
+Font.Charset=1
+Font.Color=$00000000
+Font.Name=Arial
+Font.Size=48
+Font.Style=fsBold
+Outline=foColored
+
+[TTextBezier:TextBezier2]
+ButtonCount=4
+ButtonSize=4
+BtnPoints=(42,158) (76,82) (321,42) (402,268) 
+Color=$0000FF80
+ColorShadow=$00808080
+Height=310
+Left=52
+Pen.Color=$000000FF
+Pen.Style=psSolid
+Pen.Width=2
+ShadowSize=1
+Top=96
+Width=444
+ObjId=00A25C9C
+Text=Text Bezier Object
+Font.Charset=1
+Font.Color=$00000000
+Font.Name=Arial
+Font.Size=48
+Font.Style=fsBold
+Outline=foClear
+
+[TTextBezier:TextBezier3]
+ButtonCount=4
+ButtonSize=4
+BtnPoints=(42,228) (42,45) (316,42) (321,221) 
+Color=$00FFFF80
+ColorShadow=$00C0C0C0
+Height=270
+Left=52
+Pen.Color=$00000000
+Pen.Style=psSolid
+Pen.Width=2
+ShadowSize=1
+Top=167
+Width=363
+ObjId=00A26524
+Text=Text Bezier Object
+Font.Charset=1
+Font.Color=$00000000
+Font.Name=Arial
+Font.Size=48
+Font.Style=fsBold
+Outline=foColored
+
